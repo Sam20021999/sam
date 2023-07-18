@@ -1,0 +1,9 @@
+public class Main {
+    public static void main(String[] args) {
+      System.out.println(" Hello World!");
+      int a = 233;
+      int b = 999;
+      System.out.println(Math.min(233,999));
+      System.out.println(Math.max(5, 10)); 
+      System.out.println(Math.sqrt(100));
+      System.out.println(Math.random()); 
